@@ -1,2 +1,2 @@
 # npitaxonomylookup
-Returns the taxonomy code and speciality description based on NPI database
+Using the provider NPI, returns the taxonomy code and speciality description based on the national database
